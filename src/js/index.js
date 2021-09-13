@@ -7,6 +7,6 @@ frappe.VERSION = '1.6.2';
 
 frappe         = Object.assign({ }, frappe, Charts);
 
-console.log("CHARTING FOR EVERYONE");
+console.log("CHARTING FOR EVERYONE   ");
 
 export default frappe;
